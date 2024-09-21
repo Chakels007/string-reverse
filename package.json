@@ -1,0 +1,23 @@
+{
+  "name": "string-reverse-nodejs",
+  "version": "1.0.1",
+  "description": "String Reverse in NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chakels007/string-reverse.git"
+  },
+  "keywords": [
+    "String",
+    "reverse"
+  ],
+  "author": "Gowtham Sriram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chakels007/string-reverse/issues"
+  },
+  "homepage": "https://github.com/Chakels007/string-reverse#readme"
+}
